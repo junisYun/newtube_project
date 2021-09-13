@@ -1,2 +1,0 @@
-(this.webpackJsonpnewtube=this.webpackJsonpnewtube||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(0),r=n.n(c),s=n(3),i=n.n(s),o=(n(8),n(1)),u=function(){return Object(o.jsx)("div",{})};i.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(u,{})}),document.getElementById("root"))},8:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.d3c10913.chunk.js.map

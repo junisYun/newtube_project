@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/newtube_project/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/newtube_project/static/js/main.d3c10913.chunk.js",
-    "main.js.map": "/newtube_project/static/js/main.d3c10913.chunk.js.map",
+    "main.css": "/newtube_project/static/css/main.7280254f.chunk.css",
+    "main.js": "/newtube_project/static/js/main.566b189d.chunk.js",
+    "main.js.map": "/newtube_project/static/js/main.566b189d.chunk.js.map",
     "runtime-main.js": "/newtube_project/static/js/runtime-main.e9dfe998.js",
     "runtime-main.js.map": "/newtube_project/static/js/runtime-main.e9dfe998.js.map",
-    "static/js/2.2c164a2b.chunk.js": "/newtube_project/static/js/2.2c164a2b.chunk.js",
-    "static/js/2.2c164a2b.chunk.js.map": "/newtube_project/static/js/2.2c164a2b.chunk.js.map",
+    "static/js/2.6de4cf29.chunk.js": "/newtube_project/static/js/2.6de4cf29.chunk.js",
+    "static/js/2.6de4cf29.chunk.js.map": "/newtube_project/static/js/2.6de4cf29.chunk.js.map",
     "index.html": "/newtube_project/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/newtube_project/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.2c164a2b.chunk.js.LICENSE.txt": "/newtube_project/static/js/2.2c164a2b.chunk.js.LICENSE.txt"
+    "static/css/main.7280254f.chunk.css.map": "/newtube_project/static/css/main.7280254f.chunk.css.map",
+    "static/js/2.6de4cf29.chunk.js.LICENSE.txt": "/newtube_project/static/js/2.6de4cf29.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9dfe998.js",
-    "static/js/2.2c164a2b.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.d3c10913.chunk.js"
+    "static/js/2.6de4cf29.chunk.js",
+    "static/css/main.7280254f.chunk.css",
+    "static/js/main.566b189d.chunk.js"
   ]
 }
