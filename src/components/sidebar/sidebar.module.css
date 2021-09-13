@@ -1,0 +1,7 @@
+.sideBar {
+  position: relative;
+  top: 65px;
+  background-color: #202020;
+  width: 500px;
+  z-index: -100;
+}

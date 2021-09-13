@@ -1,0 +1,34 @@
+li {
+  list-style: none;
+  width: 420px;
+}
+h1,
+h2,
+h3,
+h4,
+p {
+  margin: 0;
+  padding: 0;
+}
+.video {
+  cursor: pointer;
+  margin: 10px 20px;
+}
+.video__thumbnailCover {
+  overflow: hidden;
+}
+.video__thumbnail {
+  transition: all 0.3s ease-in-out;
+}
+.video:hover .video__thumbnail {
+  transform: scale(1.03);
+}
+
+.video__thumbnail {
+  width: 420px;
+}
+.video__title {
+  margin-top: 5px;
+  padding: 5px;
+  color: whitesmoke;
+}

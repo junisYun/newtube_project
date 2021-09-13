@@ -1,0 +1,84 @@
+* {
+  box-sizing: border-box;
+}
+.loginBox {
+  position: absolute;
+  width: 500px;
+  background-color: #202020;
+  transition: all 0.3s ease-in-out;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  color: whitesmoke;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px 30px;
+}
+.login__logo {
+  width: 100px;
+}
+.login__intro {
+  text-align: center;
+  margin: 0;
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+.login__buttons {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.login__button__google {
+  border-radius: 15px;
+  font-size: 30px;
+  height: 50px;
+  cursor: pointer;
+}
+.login__button__github {
+  border-radius: 15px;
+  font-size: 30px;
+  height: 50px;
+  cursor: pointer;
+}
+.login__button__google:hover,
+.login__button__github:hover {
+  background-color: whitesmoke;
+}
+
+@media screen and (max-width: 972px) {
+  .loginBox {
+    width: 400px;
+  }
+  .login__logo {
+    width: 80px;
+  }
+  .login__intro {
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .login__buttons {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+  }
+  .login__button__google {
+    font-size: 24px;
+    height: 40px;
+  }
+  .login__button__github {
+    font-size: 24px;
+    height: 40px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .loginBox {
+    width: 400px;
+    height: 100%;
+  }
+}
